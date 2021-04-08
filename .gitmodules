@@ -1,0 +1,3 @@
+[submodule "symbioteAPI"]
+	path = symbioteAPI
+	url = https://github.com/SHAPES-H2020/symbioteAPI
