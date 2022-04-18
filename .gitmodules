@@ -3,7 +3,7 @@
 	url = https://github.com/SHAPES-H2020/symbioteAPI
 [submodule "symbioteRAPNoticationAppExample"]
 	path = symbioteRAPNoticationAppExample
-	url = https://github.com/SHAPES-H2020/symbioteRAPNoticationAppExample
+	url = https://github.com/SHAPES-H2020/symbioteRAPNoticationAppExample.git
 [submodule "symbioteCloud"]
 	path = symbiotecloud
 	url = https://github.com/SHAPES-H2020/symbiotecloud
