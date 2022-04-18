@@ -10,3 +10,9 @@
 [submodule "symbioteCore"]
 	path = symbiotecore
 	url = https://github.com/SHAPES-H2020/symbiotecore
+[submodule "symbiotecloud"]
+	path = symbiotecloud
+	url = https://github.com/SHAPES-H2020/symbiotecloud
+[submodule "symbiotecore"]
+	path = symbiotecore
+	url = https://github.com/SHAPES-H2020/symbiotecore
