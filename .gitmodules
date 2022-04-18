@@ -4,3 +4,9 @@
 [submodule "symbioteRAPNoticationAppExample"]
 	path = symbioteRAPNoticationAppExample
 	url = https://github.com/SHAPES-H2020/symbioteRAPNoticationAppExample
+[submodule "symbioteCloud"]
+	path = symbiotecloud
+	url = https://github.com/SHAPES-H2020/symbiotecloud
+[submodule "symbioteCore"]
+	path = symbiotecore
+	url = https://github.com/SHAPES-H2020/symbiotecore
